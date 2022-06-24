@@ -1,12 +1,19 @@
-## Hi there 👋
+[![](https://www.deltamed.ind.br/wp-content/uploads/2021/11/deltamed-ativo-1-192x123-1.png)](https://deltamed.ind.br)
+# Deltamed  
+### Sistema de Controle De Maquinas
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Esses sistemas foram feitos para controlar maquinas usando PLC e/ou IHM
+## Recursos
+
+1) PLC LOGO
+2) IHM WEINTEK
+
+Feito completamente focado na empresa DELTAMED, para suas funcionalidades necessarias para um controle local e a distancia
+## Tech
+
+ tecnologias usadas nos projetos:
+
+- LOGO SOFT
+- EASY BUILDER
