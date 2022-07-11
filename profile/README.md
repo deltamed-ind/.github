@@ -38,9 +38,7 @@ Equipe especializada em projetos de pequeno, médio e grande porte para os setor
 A manutenção é de responsabilidade da DELTAMED, que garante mão-de-obra, serviços, peças e componentes de altíssima qualidade.
 <br />
 </details>
-<hr>
 <h1>ISO 9001:2015</h1>
 A DELTAMED desenvolve um processo contínuo de melhoria do sistema de gestão da qualidade, que segue os princípios identificados e disseminados pela Certificação Internacional ISO 9001:2015 que é baseada em 8 princípios.
-<hr>
 <h1>PRODUTO COM REGISTRO NA ANVISA</h1>
 A ORP150 (Osmose Reversa Portátil) da DELTAMED é um produto registrado na ANVISA sob o Nº: 81119100002
